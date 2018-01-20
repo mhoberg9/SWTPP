@@ -40,7 +40,7 @@ public class Field extends LinkedList<Figure> {
 		
 
 
-	}
+	
 
 	public void leftOrRight(String unit) {
 		// ist auf linker oder rechten Seite ein Gegner
